@@ -7,3 +7,7 @@ Before run
 uv sync
 uv run ipython kernel install --user --name=my-kernel
 ```
+
+How to export as PDF
+
+`File -> Save and Export Notebook As -> HTML -> Open in browser -> Print`
